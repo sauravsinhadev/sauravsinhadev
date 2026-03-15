@@ -1,0 +1,13 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html styles.css script.js dist/",
+    "dev": "npx http-server docs -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
