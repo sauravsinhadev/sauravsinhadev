@@ -13,13 +13,13 @@ Welcome to my GitHub! I'm a passionate software developer crafting elegant solut
 
 ## 🚀 Featured Projects
 
-- 🔗 [Quezzy](https://queueezy.in/) - AI-powered quiz and learning platform with practice tests, leaderboards, analytics, user authentication, and smart question recommendations. Inspired by modern quiz-learning systems. :contentReference[oaicite:0]{index=0}
+- 🔗 [Quezzy](https://queueezy.in/) - AI-powered quiz and learning platform with practice tests, leaderboards, analytics, user authentication, and smart question recommendations. Inspired by modern quiz-learning systems. [working]
 
 - 🔗 [Free Fire Tournament Platform](https://fb.fairbattle.in/) - Complete esports tournament management platform for Free Fire featuring team registration, tournament brackets, match scheduling, result verification, prize tracking, leaderboards, and admin dashboard.
   
 - 🔗 [React Native admob native ads](https://fb.fairbattle.in/) - A complete React Native package for displaying AdMob Native Ads with full customization support. Built for React Native 0.85+ with TypeScript-first design.
   
-- 🔗 [AI News Hub](https://github.com/sauravsinhadev/ai-news-hub) - AI-powered news aggregation app with personalized recommendations and multilingual support.
+- 🔗 [AI News Hub](https://github.com/sauravsinhadev/ai-news-hub) - AI-powered news aggregation app with personalized recommendations and multilingual support.[working]
 
 - 🔗 [PaglaUPI WHMCS Gateway](https://github.com/sauravsinhadev/paglaupi-whmcs) - Custom WHMCS payment gateway integration with order verification, webhook handling, and automated invoice management.
 
