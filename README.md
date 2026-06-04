@@ -19,6 +19,8 @@ Welcome to my GitHub! I'm a passionate software developer crafting elegant solut
   
 - 🔗 [React Native admob native ads](https://fb.fairbattle.in/) - A complete React Native package for displaying AdMob Native Ads with full customization support. Built for React Native 0.85+ with TypeScript-first design.
   
+- 🔗 [Security Bot](https://discord.com/discovery/applications/1329507405264060426) - Advanced Discord security and moderation bot featuring anti-spam protection, anti-raid detection, auto moderation, suspicious activity monitoring, logging system, role management, and server protection tools.[live]
+  
 - 🔗 [AI News Hub](https://github.com/sauravsinhadev/ai-news-hub) - AI-powered news aggregation app with personalized recommendations and multilingual support.[working]
 
 - 🔗 [PaglaUPI WHMCS Gateway](https://github.com/sauravsinhadev/paglaupi-whmcs) - Custom WHMCS payment gateway integration with order verification, webhook handling, and automated invoice management.
