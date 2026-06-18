@@ -13,6 +13,8 @@ Welcome to my GitHub! I'm a passionate software developer crafting elegant solut
 
 ## 🚀 Featured Projects
 
+- 🔗 [Recomendation](https://github.com/sauravsinhadev/Recomendation) - Built in Python + Flask, SynapseRec helped me understand embeddings, similarity, session-aware recommendations, and ranking systems. Developed with AI as a learning partner to explore and implement recommendation concepts from scratch.[learning]
+
 - 🔗 [queueezy](https://queueezy.in/) - AI-powered quiz and learning platform with practice tests, leaderboards, analytics, user authentication, and smart question recommendations. Inspired by modern quiz-learning systems. [working]
 
 - 🔗 [Free Fire Tournament Platform](https://fb.fairbattle.in/) - Complete esports tournament management platform for Free Fire featuring team registration, tournament brackets, match scheduling, result verification, prize tracking, leaderboards, and admin dashboard.
