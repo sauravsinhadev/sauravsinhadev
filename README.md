@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate software developer crafting elegant solut
 ## 🛠 Tech Stack
 **Languages:** Python • JavaScript • Java • SQL  
 **Frontend:** React • HTML5 • CSS3 • Bootstrap  
-**Backend:** Node.js • Django • Flask • Express  
+**Backend:** Node.js • Flask • Express  
 **Databases:** MongoDB • PostgreSQL • MySQL  
 **Tools:** Git • Docker • AWS • GitHub Actions  
 **Other:** Machine Learning • REST APIs • Microservices
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate software developer crafting elegant solut
 
 ## 🚀 Featured Projects
 
-- 🔗 [Quezzy](https://queueezy.in/) - AI-powered quiz and learning platform with practice tests, leaderboards, analytics, user authentication, and smart question recommendations. Inspired by modern quiz-learning systems. [working]
+- 🔗 [queueezy](https://queueezy.in/) - AI-powered quiz and learning platform with practice tests, leaderboards, analytics, user authentication, and smart question recommendations. Inspired by modern quiz-learning systems. [working]
 
 - 🔗 [Free Fire Tournament Platform](https://fb.fairbattle.in/) - Complete esports tournament management platform for Free Fire featuring team registration, tournament brackets, match scheduling, result verification, prize tracking, leaderboards, and admin dashboard.
   
