@@ -32,6 +32,7 @@ Full-stack developer with **5+ years** of experience building products end to en
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8&theme=light">
   <img src="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8" alt="Python, JavaScript, Java, MySQL, React, HTML, CSS, Bootstrap, Node.js, Flask, Express, MongoDB, PostgreSQL, AWS, Git, GitHub Actions">
+   <img src="https://skillicons.dev/icons?i=js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8" alt="Python, JavaScript, Java, MySQL, React, HTML, CSS, Bootstrap, Node.js, Flask, Express, MongoDB, PostgreSQL, AWS, Git, GitHub Actions">
 </picture>
 
 | | |
