@@ -29,9 +29,9 @@ Full-stack developer with **5+ years** of experience building products end to en
 ## Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,js,java,mysql,react,html,css,bootstrap,nodejs,flask,express,mongodb,postgres,aws,git,githubactions&perline=8" alt="Python, JavaScript, Java, MySQL, React, HTML, CSS, Bootstrap, Node.js, Flask, Express, MongoDB, PostgreSQL, AWS, Git, GitHub Actions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Cjava%2Cmysql%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cnodejs%2Cflask%2Cexpress%2Cmongodb%2Cpostgres%2Caws%2Cgit%2Cgithubactions&perline=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Cjava%2Cmysql%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cnodejs%2Cflask%2Cexpress%2Cmongodb%2Cpostgres%2Caws%2Cgit%2Cgithubactions&perline=8&theme=light">
+  <img src="https://skillicons.dev/icons?i=python%2Cjs%2Cjava%2Cmysql%2Creact%2Chtml%2Ccss%2Cbootstrap%2Cnodejs%2Cflask%2Cexpress%2Cmongodb%2Cpostgres%2Caws%2Cgit%2Cgithubactions&perline=8" alt="Python, JavaScript, Java, MySQL, React, HTML, CSS, Bootstrap, Node.js, Flask, Express, MongoDB, PostgreSQL, AWS, Git, GitHub Actions">
 </picture>
 
 | | |
