@@ -179,13 +179,13 @@ flowchart LR
 </picture>
 </p>
 
-<p align="center">
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&bg_color=0d1117&color=8ab4f8&line=4285f4&point=fdd663&area=true&area_color=4285f4&hide_border=true&custom_title=Contribution%20graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&bg_color=ffffff&color=1a73e8&line=4285f4&point=ea4335&area=true&area_color=4285f4&hide_border=true&custom_title=Contribution%20graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&hide_border=true" alt="Saurav’s contribution graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ff5fb0&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&bg_color=ffffff&color=7c3aed&line=0891b2&point=db2777&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravsinhadev&hide_border=true" alt="Saurav’s contribution graph over the last 31 days" width="100%">
 </picture>
-</p>
+</div>
 
 <!--
   Optional: contribution snake. Needs snake.yml in .github/workflows/ (run it once from the Actions tab).
